@@ -1,0 +1,22 @@
+{
+    "schemaVersion": 1,
+    "id": "imst_n",
+    "version": "1.0.0",
+    "name": "Immersive Structures:Nether edition",
+    "description": "More nether structures pack by ChoiceTheorem.",
+    "authors": [
+    	"ChoiceTheorem"
+    ],
+    "contact": {
+    	"sources": "https://github.com/ChoiceTheorem/Immersive-structures",
+    	"issues": "https://github.com/ChoiceTheorem/Immersive-structures/issues"
+    },
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+    	"fabricloader": ">=0.14.7",
+    	"minecraft": ">=1.19"
+    }
+}
+  

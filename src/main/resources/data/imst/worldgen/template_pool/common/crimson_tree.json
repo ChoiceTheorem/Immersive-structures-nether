@@ -1,0 +1,14 @@
+{
+	"name": "imst:common/crimson_tree",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:feature_pool_element",
+				"projection": "rigid",
+				"feature": "imst:common/crimson_fungi"
+			}
+		}
+	]
+}

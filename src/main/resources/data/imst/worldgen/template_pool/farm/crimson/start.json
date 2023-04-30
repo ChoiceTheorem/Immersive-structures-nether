@@ -1,0 +1,15 @@
+{
+	"name": "imst:farm/crimson/start",
+	"fallback": "imst:farm/crimson/start",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:farm/crimson/dome",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

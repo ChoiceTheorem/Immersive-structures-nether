@@ -1,0 +1,78 @@
+{
+	"name": "imst:mine/warped/start",
+	"fallback": "imst:mine/warped/start",
+	"elements": [
+		{
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/straight",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/corner_1",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/corner_2",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/t_1",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/t_2",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/t_3",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/intersection_1",
+				"processors": "imst:mine"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/warped/intersection_2",
+				"processors": "imst:mine"
+			}
+		}
+	]
+}

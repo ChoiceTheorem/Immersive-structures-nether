@@ -1,0 +1,15 @@
+{
+	"name": "imst:farm/warped/start",
+	"fallback": "imst:farm/warped/start",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:farm/warped/dome",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

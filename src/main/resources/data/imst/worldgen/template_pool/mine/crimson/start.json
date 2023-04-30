@@ -1,0 +1,15 @@
+{
+	"name": "imst:mine/crimson/start",
+	"fallback": "imst:mine/crimson/start",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "imst:mine/crimson/straight",
+				"processors": "imst:mine"
+			}
+		}
+	]
+}
