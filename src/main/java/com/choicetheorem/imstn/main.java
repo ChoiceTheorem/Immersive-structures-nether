@@ -1,4 +1,4 @@
-package com.choicetheorem.imst;
+package com.choicetheorem.imstn;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.event.server.ServerStartingEvent;
